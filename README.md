@@ -12,3 +12,4 @@ En Lenguaje Dart Flutter:
 - Usa "InvestechApp" para la aplicacion.
 
 # Capturas
+<img width="488" height="829" alt="image" src="https://github.com/user-attachments/assets/9e422337-beab-4adc-9706-b6bcf5e74a27" />
