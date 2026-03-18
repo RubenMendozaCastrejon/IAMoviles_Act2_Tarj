@@ -1,16 +1,14 @@
-# myapp
+# Prompt
+En Lenguaje Dart Flutter: 
+- Dame 5 tarjetas (Card) en columnas pero modificadas de acuerdo al negocio "Investech", relacionadas a las inversiones
+- La primera que sea "Usuario", y la otra "Bitcoin", "Rendimiento", "Estrategia", "Reserva de Valor", y agrega un pequeño subtitulo a cada una. Para las imagenes usa estos links:
+    Usuario: https://raw.githubusercontent.com/RubenMendozaCastrejon/Imagenes-Exam/refs/heads/main/Act2/Perfil.png
+    Bitcoin: https://raw.githubusercontent.com/RubenMendozaCastrejon/Imagenes-Exam/refs/heads/main/Act2/Bitcoin.jpg
+    Rendimiento: https://raw.githubusercontent.com/RubenMendozaCastrejon/Imagenes-Exam/refs/heads/main/Act2/Rendimiento.jpg
+    Estretegia: https://raw.githubusercontent.com/RubenMendozaCastrejon/Imagenes-Exam/refs/heads/main/Act2/Portafolio.jpg
+    Reserva de Valor: https://raw.githubusercontent.com/RubenMendozaCastrejon/Imagenes-Exam/refs/heads/main/Act2/Oro.jpg
+- Usa un appbar de color azul profesional que diga "Investech - Cards"
+- Usa un estilo profesional pero minimalista
+- Usa "InvestechApp" para la aplicacion.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Capturas
